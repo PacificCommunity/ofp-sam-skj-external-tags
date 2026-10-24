@@ -1,2 +1,2 @@
 # ofp-sam-skj-external-tags
-Skipjack external tagging analysis
+Skipjack external tag analysis
